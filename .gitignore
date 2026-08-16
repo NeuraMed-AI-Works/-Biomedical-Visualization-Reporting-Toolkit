@@ -1,0 +1,22 @@
+# MATLAB
+*.asv
+*.autosave
+*.mex*
+slprj/
+codegen/
+
+# Generated output from examples/tests (regenerate via ValidateImageAndReportModules.m)
+examples/output/
+output/
+*.pdf
+*.docx
+!docs/*.md
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+*.swp
