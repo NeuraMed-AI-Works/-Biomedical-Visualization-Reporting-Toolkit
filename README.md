@@ -3,7 +3,7 @@
 A reusable, object-oriented MATLAB toolkit for building professional biomedical
 dashboards, signal/image viewers, clinical reports, and publication-quality
 figures. Designed as the shared visualization layer for **every Neura-Med AI
-product** (Neurix Head Patch, Neurix Wristband, OcuScan, and future devices).
+product** 
 
 > **Status:** v1.0.0 — Modules 1, 5, 6, 7 fully implemented and tested.
 > Modules 2–4 have production-ready core classes with clearly marked
